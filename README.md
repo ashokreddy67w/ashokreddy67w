@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashokreddy67w
+- 👋 Hi, I’m Ashok Reddy kundurru
 - 👀 I’m interested in building full-stack web applications with Java, JSP, SQL, HTML, and CSS.
 - 🌱 I’m currently learning JavaScript and enhancing my backend skills.
 - 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.
